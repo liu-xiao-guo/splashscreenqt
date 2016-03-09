@@ -1,0 +1,17 @@
+{
+    "name": "splashscreenqt.liu-xiao-guo",
+    "description": "description of SplashScreenQt",
+    "architecture": "@CLICK_ARCH@",
+    "title": "SplashScreenQt",
+    "hooks": {
+        "SplashScreenQt": {
+            "apparmor": "SplashScreenQt/SplashScreenQt.apparmor",
+            "desktop":  "SplashScreenQt/SplashScreenQt.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>images/splash.jpg</file>
+        <file>SplashScreen.qml</file>
+    </qresource>
+</RCC>

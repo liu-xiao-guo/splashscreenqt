@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SplashScreenQt
+Exec=SplashScreenQt
+Icon=SplashScreenQt/SplashScreenQt.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
